@@ -1,6 +1,3 @@
-
-**
-
 # Neural network from scratch 
 The only dependency required is NumPy.
 - Support for the following is provided
@@ -14,5 +11,5 @@ The only dependency required is NumPy.
    2. Pass the created list and necessary parameters to instantiate the `NN` object
    3. Call `train` on the NN object
  
-- Benchmarked using MINST 
+- Benchmarked using the MINST dataset
   - Simple network with a single hidden layer achieved 88% accuracy on the test set
